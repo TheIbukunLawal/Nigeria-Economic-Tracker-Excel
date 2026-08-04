@@ -1,4 +1,4 @@
-# 🇳🇬 Nigeria Economic & Demographic Tracker | 2000–2023
+# Nigeria Economic & Demographic Tracker | 2000–2023
 
 ![Dashboard Overview](screenshots/Nigeria_Economic_Tracker_Dashboard.png)
 
