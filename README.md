@@ -140,7 +140,7 @@ nigeria-economic-tracker-excel/
 ```
 
 > 📁 **Workbook** (hosted on Google Drive)
-> 👉 [Download Nigeria_Economic_Tracker.xlsx](#) ← replace with your Google Drive link
+> 👉 https://docs.google.com/spreadsheets/d/12LXVXxTyY2wR8E-mnpBR2h4KIs0oPbjB/edit?usp=drive_link&ouid=102194032531628971865&rtpof=true&sd=true
 
 ---
 
