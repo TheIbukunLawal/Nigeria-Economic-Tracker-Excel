@@ -139,7 +139,7 @@ nigeria-economic-tracker-excel/
     └── Nigeria_Economic_Tracker_Dashboard.png
 ```
 
-> 📁 **Workbook** (file size exceeds GitHub's 25MB limit — hosted on Google Drive)
+> 📁 **Workbook** (hosted on Google Drive)
 > 👉 [Download Nigeria_Economic_Tracker.xlsx](#) ← replace with your Google Drive link
 
 ---
