@@ -131,10 +131,10 @@ All measures use `CALCULATE` with an `Indicator` filter to isolate each economic
 nigeria-economic-tracker-excel/
 ├── README.md
 ├── /data
-│   ├── API_NY_GDP_MKTP_CD_DS2_EN_csv.csv
-│   ├── API_NY_GDP_PCAP_CD_DS2_EN_csv.csv
-│   ├── API_FP_CPI_TOTL_ZG_DS2_EN_csv.csv
-│   └── API_SP_POP_TOTL_DS2_EN_csv.csv
+│   ├── API_NY.GDP.MKTP.CD_DS2_en_csv_v2_272305
+│   ├── API_NY.GDP.PCAP.CD_DS2_en_csv_v2_273495
+│   ├── API_FP.CPI.TOTL.ZG_DS2_en_csv_v2_250039
+│   └── API_SP.POP.TOTL_DS2_en_csv_v2_267553
 └── /screenshots
     └── Nigeria_Economic_Tracker_Dashboard.png
 ```
